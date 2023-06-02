@@ -5,5 +5,7 @@ To run this folder:
 3) npm start
 "# Dashboard_Creation" 
 
-To see, how many front-end page looked liked, I have attached the picture below.
+To see, how my front-end page looks liked, I have attached the picture below.
+
 ![Screenshot 2023-04-30 193509](https://github.com/Mansiverma88/Dashboard_Creation/assets/98829045/2148f683-6520-4559-9142-affb4eb621a0)
+
